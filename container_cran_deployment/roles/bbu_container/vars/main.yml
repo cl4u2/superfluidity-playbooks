@@ -1,3 +1,6 @@
 ---
 bbu_name: bbu
 bbu_image: sfv2/bbu
+I_NAME: eth0
+EPC_IP: 172.16.96.2
+RRH_IP: 192.168.1.200

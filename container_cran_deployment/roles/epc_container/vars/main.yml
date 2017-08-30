@@ -1,3 +1,6 @@
 ---
 epc_name: epc
 epc_image: sfv2/epc
+I_NAME: eth0
+EPC_IP: 172.16.96.2
+RRH_IP: 192.168.1.200
